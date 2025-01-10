@@ -1,0 +1,5 @@
+[33mcommit ea25c892e78cb84641e02b749bf3fbcf7dd6a5ef[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Ryan Pereira <ryan.pereira.s10@gmail.com>
+Date:   Thu Jan 9 16:14:37 2025 -0300
+
+    Instalando a biblioteca requests e criando o arquivo requirements.txt
